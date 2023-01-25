@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Maii0407
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning javaScript.
+- 👋 Hi, I’m Akmal Izuddin
+- 👀 I’m currently interested in Web Development.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me izuddin0407@gmail.com
 
