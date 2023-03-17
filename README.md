@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akmal Izuddin
-- 👀 I’m currently interested in Web Development.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m currently working in Web Development.
+- 🌱 I’m currently working with Typescript.
 - 📫 How to reach me izuddin0407@gmail.com
 
 <!---
