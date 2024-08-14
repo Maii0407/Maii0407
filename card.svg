@@ -1,0 +1,120 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="600"
+  viewBox="0 0 1200 600"
+  style="background-color: #161b22; border-radius: 10px; padding: 20px; color: #c9d1d9; font-family: 'Andale Mono', AndaleMono, Consolas, monospace;"
+>
+  <style>
+    .keyColor {fill: #ffa657;}
+    .valueColor {fill: #a5d6ff;}
+    .addColor {fill: #3fb950;}
+    .delColor {fill: #f85149;}
+    .commentColor {fill: #8b949e;}
+    text, tspan {white-space: pre; font-size: 10px;}
+  </style>
+
+  <!-- Image Section -->
+  <rect width="970px" height="530px" fill="#161b22" rx="15"/>
+
+  <text x="15" y="30" fill="#c9d1d9" class="ascii">
+    <tspan x="15" y="30">*,;?*;+*,:;;++********+++++;;;;;;;;;;;;;;;:::::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,...</tspan>
+    <tspan x="15" y="40">+;;***?%????%%%SS##@@@@@@@@@@@@@@@@@####SS%%?***++***+;::,,,,,,,,,,,,,,,,,,,.....,,,,,,,,.</tspan>
+    <tspan x="15" y="50">;*%%??%%S#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#SS%%???*+;:,,,,,,,,,,,,........,,,,,,,,,</tspan>
+    <tspan x="15" y="60">SSSS#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#S?*+;+;:,,,,,,,.........,,,,,,,,,</tspan>
+    <tspan x="15" y="70">@@@@@@@@@@@@@@@@@#%%%S@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@S?*+;;,,,,,.........,,,,,,,,,</tspan>
+    <tspan x="15" y="80">@@@@@@@@@@@@@@@S;,....;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#%?++:,..........,,,,,,,,,</tspan>
+    <tspan x="15" y="90">@@@@@@@@@@@@@@S,.......S@%;?@@@@@@@@@@@@@@@@@@#%%@@@@@@@@@@@@@@@@@@#%**:,......,,,,,,,,,,,</tspan>
+    <tspan x="15" y="100">@@@@?#@@@@@@@@S:,,,:;+?@@%*S@@@@@@@@@@@@@@SS*+;+S@@@@@@@@@%*%@@@@@@@@@S?+;,.,,,,,,,,,,,,,,</tspan>
+    <tspan x="15" y="110">@@@S*@@@@@@@@@@@#S#@@@@@@@@@@@@@@@@@@@SS%?*****S@@@S;+@@@S+;;*%@@@@@@@@@S?+;,,,,,,,,,,,,,,</tspan>
+    <tspan x="15" y="120">#%**?@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#%S*++;;+++*#@@@S+?@@@?++++?%S@@@@@@@@@%**:,,,,,,,,,,,,</tspan>
+    <tspan x="15" y="130">;;;+%@@@@@@@@@@@@@@@@@@@@@@@@@@S?*%++%****??*??#@@@@@@@@@?++++??*S%@@@@@@@@#?*+,,,,,,,,,,,</tspan>
+    <tspan x="15" y="140">;;++S@@@@@@@@@@@@@@@@@@@@@@SS?*+;;;;;;;;;;;;;;;?@@@@@@@@@?++++?++?++*S@@@@@@@%**:,,,,,,,,,</tspan>
+    <tspan x="15" y="150">+;**S@@@@@@@@@@@@@@@@@@@S*:,....................*@@@@@@@@*::;++++*+;;;*S@@@@@@S**:,,,,,,,,</tspan>
+    <tspan x="15" y="160">+:**S@@@@@@@@@@@@@@@@S+:.........................;%@@@@@@S,.....,:;++*++*S@@@@@@?*:,,,:,,,</tspan>
+    <tspan x="15" y="170">;:**S@@@@@@@@@@@@@S*:..................,;;:,.......:*%#@@@?,.........,:++*%@@@@@@%?:,,,,,,</tspan>
+    <tspan x="15" y="180">**%*S@@@@@@@@@@S*:......................:*%%?;,.......,:;+*:,............,:*S@@@@@%+,,,,,,</tspan>
+    <tspan x="15" y="190">@@@?%@@@@@@@#?:,..........................,;*?:..............................:?@@@@?;,,,,,</tspan>
+    <tspan x="15" y="200">@@@%?@@@@@%+,...................................................:**??*,........;S@@#+:,,,,</tspan>
+    <tspan x="15" y="210">@@@@?%%#@*......................................................,:;;::..........,S@@S;,,,,</tspan>
+    <tspan x="15" y="220">@@@@##@@S,.........................,,,,,,,.......................................,S@@*,,,,</tspan>
+    <tspan x="15" y="230">@@@@@@@@+......................,;;+++;;;;;++;:,...................................;@@*,,,,</tspan>
+    <tspan x="15" y="240">@@@@@@@S,...................,;++:,,........,,:++;..................................%@*,,,,</tspan>
+    <tspan x="15" y="250">@@@@@@@;...................,*;,................,+*,...........,;;++++;;:,..........;#;,,,,</tspan>
+    <tspan x="15" y="260">@@@@@@S,...................*;....................;?,........:*+;:,,,,:;+++;,.......,*,,,,,</tspan>
+    <tspan x="15" y="270">@@@@@@+.,,,::;;+++**********......................++..,,...;?:...........:+*:.......;:,,,,</tspan>
+    <tspan x="15" y="280">@@@@@@%??????***+;;;;:::::?;......................:?++++++*+,..............,?;......:;,,,,</tspan>
+    <tspan x="15" y="290">@@@@@%:,,,................++......................:*,,..,:%,................:%,.....,+,,,,</tspan>
+    <tspan x="15" y="300">:?#@@+....................,*;.....................+;......*:................,%;,,....+:,,,</tspan>
+    <tspan x="15" y="310">..,+S;.....................,++:,................,++,......;*................,%+****+;++,,,</tspan>
+    <tspan x="15" y="320">,...,:.......................,;++:,,........,,:;+:.........+*,.............,?;...,,;+*+,,,</tspan>
+    <tspan x="15" y="330">+...............................:;;;;+;;;:;;;;:,............;?+,..........:*;........,+..,</tspan>
+    <tspan x="15" y="340">?+...................................,,,,,,,...........,:....,+?+;:,,,,,;++,.........,;...</tspan>
+    <tspan x="15" y="350">,?:.....................................................,.......,;+;+;;::,...........,;...</tspan>
+    <tspan x="15" y="360">,,,........................................,:,.......................................,+,..</tspan>
+    <tspan x="15" y="370">,..,:++**+,.............................:+?%*,........................................;,..</tspan>
+    <tspan x="15" y="380">,.+*,,,;+?%*,..........................,++::;+++++;;;;:::::,,*+.......................::.,</tspan>
+    <tspan x="15" y="390">,;?,.,*;:++%%,................................,,,:::::,,,,::;+?*,.....................,;:,</tspan>
+    <tspan x="15" y="400">,%;..;+.::*:?S,................................................+:......................:*,</tspan>
+    <tspan x="15" y="410">,#+..:*,+**;,S*........................................................................,*:</tspan>
+    <tspan x="15" y="420">:#*...;;,,,..;S,.................................,,::,,,................................*+</tspan>
+    <tspan x="15" y="430">,S?..........,S:...,,,,..........................,;*+;:,,...............................**</tspan>
+    <tspan x="15" y="440">S#S..........,%++*???????+,.......................,,,,..................................?;</tspan>
+    <tspan x="15" y="450">;;S:.....,,::*?+;:,,,,,:;?S*,..........................................................;%,</tspan>
+    <tspan x="15" y="460">,.*+..,;+;;;:,............:S%,........................................................,%+,</tspan>
+    <tspan x="15" y="470">,,%;..::,..................,#*.......................................................,%*,,</tspan>
+    <tspan x="15" y="480">,*S,.....................,,,%%..........,...........................................;%+,,,</tspan>
+    <tspan x="15" y="490">:#+............,,::,,:++****?%%+,.......,,,,,,............,,,.....................;??:,,,,</tspan>
+    <tspan x="15" y="500">*@:........,:;+++;+::;:,,....,;*+,........,,:;:::::::::,,,,....................:+?*;,,,,,,</tspan>
+    <tspan x="15" y="510">%@:......,:;:,,.................;?,...........,,,,,,,,.....................,:+**+:,,,,,,,,</tspan>
+    <tspan x="15" y="520">@@:......,,.....................,%+....................................,:+*?*+:,,,,,,,,,,,</tspan>
+  </text>
+
+  <!-- Text Section -->
+  <text x="600" y="40" fill="#c9d1d9" style="font-size: 17px;">
+    <tspan x="600" y="40" style="font-size: 17px !important;">akmal@izuddin</tspan>
+    <tspan x="600" y="60" style="font-size: 17px !important;">——————</tspan>
+
+    <tspan x="600" y="80" style="font-size: 17px !important;" class="keyColor">OS</tspan>: <tspan style="font-size: 17px !important;" class="valueColor">Windows, Linux, macOS</tspan>
+    <tspan x="600" y="100" style="font-size: 17px !important;" class="keyColor">Uptime</tspan>: <tspan style="font-size: 17px !important;" class="valueColor">Since 1998</tspan>
+
+    <tspan x="600" y="130" style="font-size: 17px !important;" class="keyColor">Programming</tspan>.<tspan style="font-size: 17px !important;" class="keyColor">Tools</tspan>: <tspan style="font-size: 17px !important;" class="valueColor">VSCode, Docker</tspan>
+    <tspan x="600" y="150" style="font-size: 17px !important;" class="keyColor">Programming</tspan>.<tspan style="font-size: 17px !important;" class="keyColor">Frameworks</tspan>: <tspan style="font-size: 17px !important;" class="valueColor">.NET, Express.js, Astro JS,</tspan>
+    <tspan x="620" y="170" style="font-size: 17px !important;" class="valueColor">React, Vue.js, Next.js</tspan>
+
+    <tspan x="600" y="200" style="font-size: 17px !important;" class="keyColor">Programming</tspan>.<tspan style="font-size: 17px !important;" class="keyColor">Languages</tspan>: <tspan style="font-size: 17px !important;" class="valueColor">JavaScript, TypeScript, C#,</tspan>
+    <tspan x="620" y="220" style="font-size: 17px !important;" class="valueColor">Python, PHP</tspan>
+
+    <tspan x="600" y="250" style="font-size: 17px !important;" class="keyColor">Programming</tspan>.<tspan style="font-size: 17px !important;" class="keyColor">Databases</tspan>: <tspan style="font-size: 17px !important;" class="valueColor">PostgreSQL, MySQL, SQLite,</tspan>
+    <tspan x="620" y="270" style="font-size: 17px !important;" class="valueColor">MongoDB</tspan>
+
+    <tspan x="600" y="300" style="font-size: 17px !important;" class="keyColor">Programming</tspan>.<tspan style="font-size: 17px !important;" class="keyColor">Markdowns</tspan>: <tspan style="font-size: 17px !important;" class="valueColor">HTML, CSS, JSON, XML, YAML,</tspan>
+    <tspan x="620" y="320" style="font-size: 17px !important;" class="valueColor">Markdown</tspan>
+
+
+    <tspan x="600" y="340" style="font-size: 17px !important;">——————</tspan>
+
+    <tspan x="600" y="360" style="font-size: 17px !important;" class="keyColor">Email</tspan>: <tspan style="font-size: 17px !important;" class="valueColor">izuddin0407@gmail.com</tspan>
+    <tspan x="600" y="380" style="font-size: 17px !important;" class="keyColor">LinkedIn</tspan>: <tspan style="font-size: 17px !important;" class="valueColor">akmal-izuddin</tspan>
+  </text>
+
+  <!-- <text x="600" y="40" fill="#c9d1d9">
+    <tspan x="600" y="40">akmal@izuddin</tspan>
+    <tspan x="600" y="60">——————</tspan>
+  
+    <tspan x="600" y="80" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows, Linux, macOS</tspan>
+    <tspan x="600" y="100" class="keyColor">Uptime</tspan>: <tspan class="valueColor">Since 1998</tspan>
+  
+    <tspan x="600" y="120" class="keyColor">Programming</tspan>.<tspan class="keyColor">Tools</tspan>: <tspan class="valueColor">VSCode, Docker</tspan>
+    <tspan x="600" y="140" class="keyColor">Programming</tspan>.<tspan class="keyColor">Frameworks</tspan>: <tspan class="valueColor">.NET, Express.js, Astro JS, React, Vue.js, Next.js</tspan>
+    <tspan x="600" y="160" class="keyColor">Programming</tspan>.<tspan class="keyColor">Languages</tspan>: <tspan class="valueColor">JavaScript, TypeScript, C#, Python, PHP</tspan>
+    <tspan x="600" y="180" class="keyColor">Programming</tspan>.<tspan class="keyColor">Databases</tspan>: <tspan class="valueColor">PostgreSQL, MySQL, SQLite, MongoDB</tspan>
+    <tspan x="600" y="200" class="keyColor">Programming</tspan>.<tspan class="keyColor">Markdowns</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, YAML, Markdown</tspan>
+  
+    <tspan x="600" y="220">——————</tspan>
+  
+    <tspan x="600" y="250" class="keyColor">Email</tspan>: <tspan class="valueColor">izuddin0407@gmail.com</tspan>
+    <tspan x="600" y="260" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">akmal-izuddin</tspan>
+  </text> -->
+
+</svg>
